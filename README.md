@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [www.blog.link.com](www.blog.link.com)
 
-- 📫 How to reach me **devesh.kr.sri@gmail.com**
+- 📫 How to reach me **devesh@gmail.com**
 
 - 📄 Know about my experiences [www.resume.com](www.resume.com)
 
