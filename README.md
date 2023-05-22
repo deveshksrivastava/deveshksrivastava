@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://devesh.io)-->
 
 <h1 align="center">Hi 👋, I'm Devesh</h1>
 <h3 align="center">I'm a passionate Frontend Developer with a knack for creating aesthetic, interactive, and user-friendly websites and web applications. My journey in the world of web development started with a curiosity that transformed into a passion as I delved deeper into this creative universe.</h3>
