@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/deveshs77974409" target="blank"><img src="https://img.shields.io/twitter/follow/deveshs77974409?logo=twitter&style=for-the-badge" alt="deveshs77974409" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portforliolink.com](portforliolink.com)
+<!-- - 👨‍💻 All of my projects are available at [portforliolink.com](portforliolink.com)
 
-- 📝 I regularly write articles on [www.blog.link.com](www.blog.link.com)
-
-- 📫 How to reach me **devesh@gmail.com**
-
+- 📝 I regularly write articles on [www.blog.link.com](www.blog.link.com) 
 - 📄 Know about my experiences [www.resume.com](www.resume.com)
+-->
+
+- 📫 How to reach me **devesh.kr.sri@gmail.com**
+
+
 
 - ⚡ Fun fact **I think I am funny**
 
